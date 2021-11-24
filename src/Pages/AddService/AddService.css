@@ -1,0 +1,13 @@
+.add-form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.add-form form {
+}
+.add-form form input,
+textarea {
+  width: 40%;
+  margin-bottom: 10px;
+}
